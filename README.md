@@ -32,7 +32,7 @@ Clone this repository:
 
 
 ```sh
-$ git clone https://github.com/nandoamori/ignite-lab-ts
+$ git clone https://github.com/GuilhermeAlves-prog/ignite-lab3
 ```
 
 
@@ -59,11 +59,11 @@ You can view the layout through the link below:
 
 You can view the project through the link below:
 
-* [Live Preview](ignite-lab-ts-8x5t-rcwq5rdsj-nandoamori.vercel.app)
+* [Live Preview](https://login-ignite-lab.netlify.app/)
 
 You can view the storybook component docs through the link below:
 
-* [Storybook components docs](https://nandoamori.github.io/ignite-lab-ts/)
+* [Storybook components docs](https://guilhermealves-prog.github.io/ignite-lab3/)
 
 
 Made with 💜 by Guilherme Alves
