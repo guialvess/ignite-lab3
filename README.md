@@ -32,7 +32,7 @@ Clone this repository:
 
 
 ```sh
-$ git clone https://github.com/GuilhermeAlves-prog/ignite-lab3
+$ git clone https://github.com/guialvess/ignite-lab3
 ```
 
 
@@ -63,7 +63,7 @@ You can view the project through the link below:
 
 You can view the storybook component docs through the link below:
 
-* [Storybook components docs](https://guilhermealves-prog.github.io/ignite-lab3/)
+* [Storybook components docs](https://guialvess.github.io/ignite-lab3/)
 
 
 Made with 💜 by Guilherme Alves
